@@ -104,7 +104,6 @@ img {
 .about-me {
   display: flex;
   justify-content: start;
-  border: 2px blueviolet solid;
   background-color: #edf6fa;
   margin-bottom: 6rem;
 }
@@ -114,6 +113,7 @@ img {
   font-size: larger;
   color: #0b0a0a;
   margin-left: 130px;
+  margin-top: 4rem;
 }
 
 .project-card {
